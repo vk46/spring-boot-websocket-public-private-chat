@@ -23,7 +23,7 @@ git clone https://github.com/vk46/spring-boot-websocket-public-private-chat.git
 **2. Build and run the app using maven**
 
 ```bash
-cd spring-boot-websocket-chat-demo
+cd spring-boot-websocket-public-private
 mvn package
 java -jar target/websocket-demo-0.0.1-SNAPSHOT.jar
 ```
